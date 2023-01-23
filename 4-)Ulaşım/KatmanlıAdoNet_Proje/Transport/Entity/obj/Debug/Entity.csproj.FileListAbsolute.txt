@@ -1,0 +1,12 @@
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Transport\Entity\bin\Debug\Entity.dll
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Transport\Entity\bin\Debug\Entity.pdb
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Transport\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Transport\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Transport\Entity\obj\Debug\Entity.dll
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Transport\Entity\obj\Debug\Entity.pdb
+C:\Users\ayse.alpaslan\Desktop\KatmanlıAdoNet_Proje\Transport\Entity\bin\Debug\Entity.dll
+C:\Users\ayse.alpaslan\Desktop\KatmanlıAdoNet_Proje\Transport\Entity\bin\Debug\Entity.pdb
+C:\Users\ayse.alpaslan\Desktop\KatmanlıAdoNet_Proje\Transport\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\ayse.alpaslan\Desktop\KatmanlıAdoNet_Proje\Transport\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\ayse.alpaslan\Desktop\KatmanlıAdoNet_Proje\Transport\Entity\obj\Debug\Entity.dll
+C:\Users\ayse.alpaslan\Desktop\KatmanlıAdoNet_Proje\Transport\Entity\obj\Debug\Entity.pdb
